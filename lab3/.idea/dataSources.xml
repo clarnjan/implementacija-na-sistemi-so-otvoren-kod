@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="isok171146@praktikum.finki.ukim.mk" uuid="8ad4dffc-61dc-4265-8751-7028a4bd7517">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://praktikum.finki.ukim.mk:3306/isok171146</jdbc-url>
+    </data-source>
+  </component>
+</project>
